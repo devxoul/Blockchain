@@ -1,0 +1,34 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "CryptoSwift",
+        "repositoryURL": "https://github.com/krzyzanowskim/CryptoSwift.git",
+        "state": {
+          "branch": null,
+          "revision": "0f5c068f1689984b47a5651e2188d2e95365e403",
+          "version": "0.8.1"
+        }
+      },
+      {
+        "package": "RxSwift",
+        "repositoryURL": "https://github.com/ReactiveX/RxSwift.git",
+        "state": {
+          "branch": null,
+          "revision": "e479d0029db0575e03e3c092e1c9724b9410eab7",
+          "version": "4.1.1"
+        }
+      },
+      {
+        "package": "Then",
+        "repositoryURL": "https://github.com/devxoul/Then.git",
+        "state": {
+          "branch": null,
+          "revision": "c9941c72b8556000b7eb1baacf5f22b2a7925f92",
+          "version": "2.3.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
